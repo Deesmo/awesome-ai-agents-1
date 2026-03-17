@@ -2655,3 +2655,19 @@
   categories:
     - "Long-Term Memory"
   
+- project: "Arch Tools"
+  project_description: "The first API platform where AI agents pay per-call with USDC via x402 protocol. 61 production tools including AI generation, web scraping, crypto data, sentiment analysis, OCR, TTS, and more. MCP-compatible — works with Claude Desktop, Cursor, and other MCP clients."
+  project_is_open_source: false
+  sources:
+    - source: "website"
+      source_url: "https://archtools.dev"
+    - source: "github"
+      source_url: "https://github.com/Deesmo/Arch-AI-Tools"
+    - source: "mcp"
+      source_url: "https://arch-tools-mcp.onrender.com/mcp"
+    - source: "x402"
+      source_url: "https://archtools.dev/.well-known/x402"
+  categories:
+    - "AI Agents"
+    - "Developer Tools"
+    - "Crypto"
